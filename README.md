@@ -112,5 +112,5 @@ AtmoXplorer/
 
 ![Final UI](images/Screenshot%202025-07-09%20194140.png)
 
-![Final UI](images/Screenshot%2025-07-24%101449.png)
+![Final UI](images/Screenshot%202025-07-24%20101449.png)
 
